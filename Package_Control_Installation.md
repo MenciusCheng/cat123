@@ -5,12 +5,13 @@ Package Control Installation
 ----
 
 由于被墙，本文摘自<https://packagecontrol.io/installation>，时间2016-1-12
+
 GitHub: <https://github.com/wbond/package_control>
 
 Simple
 ------
 
-The simplest method of installation is through the Sublime Text console. The console is accessed via the ``ctrl+``` shortcut or the `View > Show Console` menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
+The simplest method of installation is through the Sublime Text console. The console is accessed via the ``ctrl+` `` shortcut or the `View > Show Console` menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
 
 SUBLIME TEXT 3
 
