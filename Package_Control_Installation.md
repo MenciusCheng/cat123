@@ -39,6 +39,6 @@ If for some reason the console installation instructions do not work for you (su
 问题解决
 --------
 
-**问题：**安装完后无法显示 `Package Control` 菜单或执行代码后显示186789。
+问题：安装完后无法显示 `Package Control` 菜单或执行代码后显示186789。
 
-**解决：**点击 `Preferences > Settings - User`，找到 "ignored_packages" ，把它的值中的 "Package Control" 去掉，就能看到 `Package Control` 菜单了。
+解决：点击 `Preferences > Settings - User`，找到 "ignored_packages" ，把它的值中的 "Package Control" 去掉，就能看到 `Package Control` 菜单了。
