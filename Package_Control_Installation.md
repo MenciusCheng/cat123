@@ -41,6 +41,7 @@ If for some reason the console installation instructions do not work for you (su
 
 - [MarkDown Preview](https://github.com/revolunet/sublimetext-markdown-preview) -- Preview and build your markdown files quickly in your web browser from sublime text 2/3.
 - [Git](https://github.com/kemayo/sublime-text-git) -- Plugin for some git integration into sublime text
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
 
 问题解决
 --------
