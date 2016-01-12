@@ -36,6 +36,12 @@ If for some reason the console installation instructions do not work for you (su
 3. Download Package [Control.sublime-package](https://packagecontrol.io/Package%20Control.sublime-package) and copy it into the `Installed Packages/` directory
 4. Restart Sublime Text
 
+扩展推荐
+--------
+
+- [MarkDown Preview](https://github.com/revolunet/sublimetext-markdown-preview) -- Preview and build your markdown files quickly in your web browser from sublime text 2/3.
+- [Git](https://github.com/kemayo/sublime-text-git) -- Plugin for some git integration into sublime text
+
 问题解决
 --------
 
