@@ -3,6 +3,9 @@ Meteor Notes
 
 Introducing the [Meteor Guide](http://guide.meteor.com/).
 
+Meteor Guide
+------------
+
 The APIs of the Meteor platform are available a the [docs site](https://docs.meteor.com/), and you can browse community packages on [atmosphere](https://atmospherejs.com/).
 
 If you are just getting started with Meteor, we recommend starting with the [official tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app).
