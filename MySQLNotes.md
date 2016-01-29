@@ -7,3 +7,6 @@ GRANT ALL ON db1.* TO 'jeffrey'@'localhost';
 GRANT SELECT ON db2.invoice TO 'jeffrey'@'localhost';
 ALTER USER 'jeffrey'@'localhost' WITH MAX_QUERIES_PER_HOUR 90;
 ```
+
+Installing MySQL on Microsoft Windows Using a [noinstall Zip Archive](http://dev.mysql.com/downloads/mysql/)
+<http://dev.mysql.com/doc/refman/5.7/en/windows-install-archive.html>
